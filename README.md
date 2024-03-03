@@ -6,6 +6,8 @@ Arduino + NRF24 radio receiver 100mW:
 
 Pin7 HIGH checks if the chip nrf24 is connected to the SPI bus.
 ```
+Define SPI pins:
+
   D15 - SCK
   D14 - MISO
   D16 - MOSI
