@@ -5,6 +5,16 @@ Arduino + NRF24 radio receiver 100mW:
   - 6x AUX channel, bool
 
 Pin7 HIGH checks if the chip nrf24 is connected to the SPI bus.
+```
+  D15 - SCK
+  D14 - MISO
+  D16 - MOSI
+  D10 - SCN ------+
+  D9  - CE ----+  |
+               |  |
+    RF24 radio(9, 10);
+```
+  
 
 Arduino nano or pro micro:
 
