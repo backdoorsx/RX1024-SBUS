@@ -16,6 +16,21 @@ Define SPI pins:
                |  |
     RF24 radio(9, 10);
 ```
+```
+Define output TX pin (SBUS pin):
+
+Use HardwareSerial serial1 for arduino chip atmega32u4 Serial1.begin(100000, SERIAL_8E2);
+For arduino chip atmega328p use Serial.begin(100000, SERIAL_8E2);
+```
+The pin TX0 from arduino is connected to the FC:
+```
+ARDUINO |  FC
+--------+-----
+  GND   | GND
+  RAW   | 4V5
+  TX    | R2
+```
+![image](https://github.com/backdoorsx/RX1024-SBUS/assets/18431164/79298bdb-e585-43c4-a280-e1579a6908ce)
   
 
 Arduino nano or pro micro (atmega328p or atmega32u4):
