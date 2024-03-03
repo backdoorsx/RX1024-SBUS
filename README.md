@@ -18,7 +18,7 @@ Define SPI pins:
 ```
   
 
-Arduino nano or pro micro:
+Arduino nano or pro micro (atmega328p or atmega32u4):
 
 ![image](https://github.com/backdoorsx/RX1024-SBUS/assets/18431164/c6f3156e-7ed8-4e9e-85e4-c01701db6c79)
 
