@@ -1,6 +1,6 @@
 # RX1024 SBUS protocol
 
-Arduino + NRF24 radio receiver:
+Arduino + NRF24 radio receiver 100mW:
   - 4x analog channel, 0-1023 remap to 1000-2000
   - 6x AUX channel, bool
 
