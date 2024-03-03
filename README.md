@@ -30,3 +30,7 @@ https://www.cdebyte.com/products/E01-ML01SP4
 
 # TX1024
 https://github.com/backdoorsx/TX1024.git
+
+## License
+
+[WTFPL](http://www.wtfpl.net/)
