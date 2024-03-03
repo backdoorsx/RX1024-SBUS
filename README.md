@@ -1,5 +1,11 @@
 # RX1024 SBUS protocol
 
+Arduino + NRF24 radio receiver:
+  - 4x analog channel, 0-1023 remap to 1000-2000
+  - 6x AUX channel, bool
+
+Pin7 HIGH checks if the chip nrf24 is connected to the SPI bus.
+
 Arduino nano or pro micro:
 
 ![image](https://github.com/backdoorsx/RX1024-SBUS/assets/18431164/c6f3156e-7ed8-4e9e-85e4-c01701db6c79)
