@@ -31,6 +31,14 @@ ARDUINO |  FC
   TX    | R2
 ```
 ![image](https://github.com/backdoorsx/RX1024-SBUS/assets/18431164/79298bdb-e585-43c4-a280-e1579a6908ce)
+
+![image](https://github.com/backdoorsx/RX1024-SBUS/assets/18431164/96c67c5c-45e3-4506-a620-ffb7eae4c5d6)
+Betaflight configurator settings:
+
+![image](https://github.com/backdoorsx/RX1024-SBUS/assets/18431164/8dc629f9-bb50-4c45-9a4b-5bf495dafa99)
+![image](https://github.com/backdoorsx/RX1024-SBUS/assets/18431164/a94724c6-ffb4-482f-bb63-3245607efc16)
+
+
   
 
 Arduino nano or pro micro (atmega328p or atmega32u4):
