@@ -5,6 +5,25 @@ Arduino + NRF24 radio receiver 100mW:
   - 6x AUX channel, bool
 
 Pin7 HIGH checks if the chip nrf24 is connected to the SPI bus.
+
+Default settings for lost TX signal:
+```
+void ResetData() {
+  data.TYPR[0] = 500; //[R]
+  data.TYPR[1] = 500; //[P]
+  data.TYPR[2] = 200; //[T]
+  data.TYPR[3] = 500; //[Y]
+  data.AUXS[0] = 0;
+  data.AUXS[1] = 0;
+  data.AUXS[2] = 0;
+  data.AUXS[3] = 0;
+  data.AUXS[4] = 0;
+  data.AUXS[5] = 0;
+}
+```
+![image](https://github.com/backdoorsx/RX1024-SBUS/assets/18431164/8d7e8c1f-b7fc-4eab-b5c8-3a3daf33f1d2)
+
+
 ```
 Define SPI pins:
 
