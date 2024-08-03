@@ -57,14 +57,12 @@ Betaflight configurator settings:
 ![image](https://github.com/backdoorsx/RX1024-SBUS/assets/18431164/8dc629f9-bb50-4c45-9a4b-5bf495dafa99)
 ![image](https://github.com/backdoorsx/RX1024-SBUS/assets/18431164/a94724c6-ffb4-482f-bb63-3245607efc16)
 
-
-  
-
+---
 Arduino nano or pro micro (atmega328p or atmega32u4):
 
 ![image](https://github.com/backdoorsx/RX1024-SBUS/assets/18431164/c6f3156e-7ed8-4e9e-85e4-c01701db6c79)
 
-
+---
 nRF24L01P 2.4GHz 100mW or 500mW:
 
 https://www.cdebyte.com/products/E01-ML01SP4 - 100mW
@@ -75,7 +73,7 @@ https://www.cdebyte.com/products/E01-2G4M27SX -500mW
 
 ![image](https://github.com/user-attachments/assets/6d117720-330f-4438-80a8-1c607f40daca)
 
-
+---
 3v3 Voltage Regulator Module:
 
 ![image](https://github.com/backdoorsx/RX1024-SBUS/assets/18431164/8b07d441-e9ae-42fb-baad-e9ccca79800e)
@@ -84,8 +82,7 @@ AMS1117 LDO 800MA
 
 ![image](https://github.com/user-attachments/assets/dd9232b7-435e-41db-917b-55668d520364)
 
-
-
+---
 2.4GHz antenna:
 
 ![image](https://github.com/backdoorsx/RX1024-SBUS/assets/18431164/fe0aacec-f490-471d-9637-917829c43c26)
@@ -94,7 +91,7 @@ Flywoo ELRS 2.4g Minimortal PCB T Antenna UFL
 
 ![image](https://github.com/user-attachments/assets/8fd22cc1-5be2-4990-97c0-bcf722e3d5b1)
 
-
+---
 # TX1024
 https://github.com/backdoorsx/TX1024.git
 
