@@ -25,11 +25,11 @@ void ResetData() {
 
 
 ```
-Define SPI pins:
+Define SPI pins *(NANO & SUPERMINI):
 
-  D15 - SCK
-  D14 - MISO
-  D16 - MOSI
+  D15 - SCK  *(D13)
+  D14 - MISO *(D12)
+  D16 - MOSI *(D11)
   D10 - SCN ------+
   D9  - CE ----+  |
                |  |
