@@ -68,9 +68,11 @@ Arduino nano or pro micro (atmega328p or atmega32u4):
 nRF24L01P 2.4GHz 100mW or 500mW:
 
 https://www.cdebyte.com/products/E01-ML01SP4 - 100mW
+
 ![image](https://github.com/backdoorsx/RX1024-SBUS/assets/18431164/52df6256-06ef-4a35-a71e-62a2324a68cb)
 
 https://www.cdebyte.com/products/E01-2G4M27SX -500mW
+
 ![image](https://github.com/user-attachments/assets/6d117720-330f-4438-80a8-1c607f40daca)
 
 
@@ -78,7 +80,7 @@ https://www.cdebyte.com/products/E01-2G4M27SX -500mW
 
 ![image](https://github.com/backdoorsx/RX1024-SBUS/assets/18431164/8b07d441-e9ae-42fb-baad-e9ccca79800e)
 
-AMS1117 LDO 800MA:
+AMS1117 LDO 800MA
 
 ![image](https://github.com/user-attachments/assets/dd9232b7-435e-41db-917b-55668d520364)
 
@@ -88,7 +90,7 @@ AMS1117 LDO 800MA:
 
 ![image](https://github.com/backdoorsx/RX1024-SBUS/assets/18431164/fe0aacec-f490-471d-9637-917829c43c26)
 
-Flywoo ELRS 2.4g Minimortal PCB T Antenna UFL:
+Flywoo ELRS 2.4g Minimortal PCB T Antenna UFL
 
 ![image](https://github.com/user-attachments/assets/8fd22cc1-5be2-4990-97c0-bcf722e3d5b1)
 
