@@ -77,7 +77,9 @@ https://www.cdebyte.com/products/E01-2G4M27SX -500mW
 3v3 Voltage Regulator Module:
 
 ![image](https://github.com/backdoorsx/RX1024-SBUS/assets/18431164/8b07d441-e9ae-42fb-baad-e9ccca79800e)
+
 AMS1117 LDO 800MA:
+
 ![image](https://github.com/user-attachments/assets/dd9232b7-435e-41db-917b-55668d520364)
 
 
@@ -85,7 +87,9 @@ AMS1117 LDO 800MA:
 2.4GHz antenna:
 
 ![image](https://github.com/backdoorsx/RX1024-SBUS/assets/18431164/fe0aacec-f490-471d-9637-917829c43c26)
+
 Flywoo ELRS 2.4g Minimortal PCB T Antenna UFL:
+
 ![image](https://github.com/user-attachments/assets/8fd22cc1-5be2-4990-97c0-bcf722e3d5b1)
 
 
